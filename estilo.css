@@ -49,7 +49,7 @@ main {
     padding-left: 15px;
     margin-top: 10px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
     /* fica com responsividade*/
     /*grid-template-columns: 400px 400px 400px 400px;    fica sem responsividade*/
     /* grid-template-columns: 2fr 1fr 1fr 1fr ;   não fica bem responsio*/
